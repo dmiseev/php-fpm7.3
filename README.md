@@ -1,5 +1,7 @@
 ## PHP-FPM Image
 
+[![Build Status](https://travis-ci.com/dmiseev/php-fpm7.3.svg?branch=master)](https://travis-ci.com/dmiseev/php-fpm7.3)
+
  **Helpful PHP-FPM image from official ubuntu:xenial**
  
  >
